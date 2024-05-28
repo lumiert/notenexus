@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "create-electron-app": "^7.4.0",
+    "react-hot-loader": "^4.13.1",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.0.4"
+  }
+}
